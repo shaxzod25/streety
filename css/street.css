@@ -1,0 +1,65 @@
+.street__wrap {
+    padding: 15px;
+    background: #393636;
+
+}
+
+.street__menu {
+    background: #292929;
+    padding: 0 20px;
+    display: flex;
+    gap: 31px;
+}
+
+.items__menu {
+    padding: 20px 0;
+   
+
+}
+
+.items__menu:hover {
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.list__menu {
+    font-family: var(--rr);
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+color: #FFFFFF;
+
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.card {
+    background: #0C0C0C;
+border: 1px solid #FFFFFF;
+border-radius: 4px;
+    max-width: 370px;
+    width: 100%;
+    height: 524px;
+    padding: 15px;
+}
+.card__h{
+    font-family: var(--rbo);
+font-size: 19px;
+font-weight: 700;
+line-height: 15px;
+color: #FFFFFF;
+margin: 15px 0;
+}
+
+.card__p {
+    font-family: var(--rr);
+font-size: 19px;
+font-weight: 400;
+line-height: 25px;
+color: #FFFFFF;
+
+}

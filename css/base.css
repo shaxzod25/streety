@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background: #000000;
+}
+
+/*
+<i class="far fa-map-signs"></i>
+<i class="fal fa-cart-plus"></i>
+*/
+
+:root {
+      --rb:'RB' , sans-serif;
+      --rbo:'RBo' , sans-serif;
+      --rr:'RR' , sans-serif;
+      --rt:'RT' , sans-serif;
+      --rrr:'RRR' , sans-serif;
+}
