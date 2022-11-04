@@ -1,0 +1,37 @@
+.footer  {
+    background: linear-gradient(180deg, #000000 0%, rgba(105, 207, 23, 0.5) 100%);
+}
+
+.f__wrap1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+    align-items: center;
+}
+
+.footer__p {
+    font-family: var(--rbd);
+font-size: 20px;
+font-weight: 700;
+line-height: 23px;
+color: #FFFFFF;
+
+}
+
+.f__wrap2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 81px;
+    margin-top: 61px;
+}
+
+.wr__h {
+    font-family: var(--rrr);
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+}

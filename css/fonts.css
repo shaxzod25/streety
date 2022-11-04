@@ -23,3 +23,8 @@
     font-family: 'RRR';
     src: url(../fonts/Roboto-Regular.ttf) format('truetype');
 }
+
+@font-face {
+    font-family: 'RBd';
+    src: url(../fonts/Roboto-Bold.ttf) format('truetype');
+}

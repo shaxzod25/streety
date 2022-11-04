@@ -1,0 +1,20 @@
+.Filial {
+    background: #FFFFFF;
+}
+
+.Filial__wrap {
+    text-align: center;
+}
+
+.fil__h {
+    font-family: var(--rbo);
+font-size: 50px;
+font-weight: 700;
+line-height: 40px;
+color: #69CF17;
+padding: 20px;
+}
+
+iframe {
+    width: 100%;
+}
