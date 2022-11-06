@@ -6,6 +6,23 @@
     align-items: center;
 }
 
+@media screen and (max-width:708px) {
+    .header2__wrap {
+        flex-direction: column;
+        justify-content: center;
+        
+
+    }
+    .header1__wrap {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+@media screen and (max-width:494px) {
+    .menu {
+        flex-direction: column;
+    }
+}
 
 
 .header1 {
