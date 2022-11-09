@@ -35,3 +35,25 @@ letter-spacing: 0em;
 text-align: center;
 color: #FFFFFF;
 }
+
+.proweb {
+    background: #1A3406;
+    padding: 19px 0;
+    text-align: center;
+}
+
+.proweb__p {
+    font-family: var(--rrr);
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+}
+
+@media screen and (max-width: 420px) {
+    .f__wrap1 {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
